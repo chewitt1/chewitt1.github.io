@@ -1,5 +1,5 @@
 <p align="center">
-<img style="slign:center;" src="https://images.unsplash.com/photo-1573767291321-c0af2eaf5266?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=836&q=80" alt="Cool Unsplash Spaceholder" width="100" />
+<img style="slign:center;" src="https://images.unsplash.com/photo-1573767291321-c0af2eaf5266?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=836&q=80" alt="Cool Unsplash Spaceholder" />
 </p>
 
 <h1 align="center">Carrima Hewitt's Official Portfolio Site</h1>

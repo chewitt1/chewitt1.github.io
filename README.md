@@ -4,7 +4,7 @@
 
 <h1 align="center">Carrima Hewitt's Official Portfolio Site</h1>
 <p align="center">
-<a href="https://chewitt1.github.io/">Website</a> · <a href="https://manual.ardour.org/toc/">Manual</a>
+<a href="https://chewitt1.github.io/">Website</a>
 </p>
 
 ## Overview
